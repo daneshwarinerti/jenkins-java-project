@@ -13,11 +13,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA Master.</h2>
+      <h2> Daneshwari.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
